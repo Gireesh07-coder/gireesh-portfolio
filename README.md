@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Gireesh S Bhajantri — Portfolio
 
 A responsive, dark-first portfolio built with React, TypeScript, Vite, Tailwind CSS v4, Motion for React, and Lucide icons.
@@ -35,3 +36,7 @@ The light/dark preference is saved in browser local storage. Theme colors, respo
 ## Deploy
 
 Run `npm run build` and deploy the generated `dist/` directory to a static host such as Netlify or Vercel. The site is a client-rendered static app and does not require a backend. For GitHub Pages under a repository subpath, set Vite's `base` option in `vite.config.ts` to `/<repository-name>/` before building; use `/` for a custom domain or account-root site.
+=======
+# gireesh-portfolio
+Personal portfolio website built with React, TypeScript, and Tailwind CSS.
+>>>>>>> 209d9d82e704167d7c5c292756e43740c3f35011
