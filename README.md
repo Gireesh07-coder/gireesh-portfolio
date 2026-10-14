@@ -1,42 +1,62 @@
-<<<<<<< HEAD
-# Gireesh S Bhajantri — Portfolio
+# Gireesh S Bhajantri — Personal Portfolio
 
-A responsive, dark-first portfolio built with React, TypeScript, Vite, Tailwind CSS v4, Motion for React, and Lucide icons.
+<p align="center">
+  <a href="https://gireesh-portfolio-six.vercel.app/">
+    <img src="https://img.shields.io/badge/Live%20Portfolio-Visit%20Website-8B5CF6?style=for-the-badge" alt="Visit Live Portfolio" />
+  </a>
+</p>
 
-## Run locally
+<p align="center">
+  A personal portfolio showcasing my technical skills, projects, education, and journey as a software engineer.
+</p>
 
-```sh
-npm install
-npm run dev
-```
+## 🌐 Live Website
 
-## Verify and build
+**Portfolio:** https://gireesh-portfolio-six.vercel.app/
 
-```sh
-npm run lint
-npm run build
-npm run preview
-```
+## 👨‍💻 About Me
 
-## Personalize content
+I'm a 2026 Computer Science and Engineering graduate from Dr. Ambedkar Institute of Technology, Bengaluru, interested in software engineering, backend development, and building practical applications.
 
-- Update your social links, optional email, availability indicator, resume URL, skills, and achievement categories in `src/data/profile.ts`.
-- Replace `YOUR_GMAIL_ADDRESS@gmail.com` in `src/data/profile.ts` with your real email address. The contact section and footer both use that one setting to create mailto links.
-- Edit project copy, stack tags, repository URLs, and demo URLs in `src/data/projects.ts`. EduHub is listed first with its live demo; only HTML, CSS, and JavaScript are stated because those are the asset types observed on the deployed page. Bootstrap, Firebase, the source repository, and implementation details still need source verification.
-- Brokerage Simulator is kept as an in-progress project. When ready, update its entry in `src/data/projects.ts` with verified implementation details and links; no Brokerage UI, features, or demo are currently claimed.
-- Project previews are local CSS illustrations in `src/components/ProjectCard.tsx`; no project screenshots or source repositories were available in the workspace.
-- The internship's date and responsibilities are intentionally left for you to confirm in `src/App.tsx`.
-- The resume button opens the configured Google Drive link in a new tab. Replace `resumeUrl` in `src/data/profile.ts` if you update the shared Drive location.
-- After replacing the email placeholder in `src/data/profile.ts`, the Contact section and footer use it for `mailto:` links.
-- Set `availability.enabled` to `true` and provide a truthful `availability.label` only when you want to display an availability status.
-- Add verified hackathon, certification, open-source, or coding milestones by editing `achievementCategories` in `src/data/profile.ts` and the achievement section in `src/App.tsx`.
+- 🎓 B.E. in Computer Science and Engineering
+- 💻 Interested in Software Development and Backend Engineering
+- 🚀 Building projects and strengthening problem-solving skills
+- 📚 Learning Java, Spring Boot, REST APIs, and full-stack development
 
-The light/dark preference is saved in browser local storage. Theme colors, responsive layouts, and reduced-motion behavior are implemented in `src/index.css`.
+## 🛠️ Tech Stack
 
-## Deploy
+- **Languages:** Java, TypeScript, Python, SQL
+- **Frontend:** React, Angular, HTML, CSS
+- **Backend:** Spring Boot, REST APIs
+- **Databases:** PostgreSQL, MySQL
+- **Tools:** Git, GitHub, VS Code, Vite
+- **Styling and Animation:** Tailwind CSS, Motion
 
-Run `npm run build` and deploy the generated `dist/` directory to a static host such as Netlify or Vercel. The site is a client-rendered static app and does not require a backend. For GitHub Pages under a repository subpath, set Vite's `base` option in `vite.config.ts` to `/<repository-name>/` before building; use `/` for a custom domain or account-root site.
-=======
-# gireesh-portfolio
-Personal portfolio website built with React, TypeScript, and Tailwind CSS.
->>>>>>> 209d9d82e704167d7c5c292756e43740c3f35011
+## 🚀 Projects
+
+Visit my [live portfolio](https://gireesh-portfolio-six.vercel.app/) to explore my featured projects and technical work.
+
+### EduHub — Student Portal
+
+An education-focused web platform designed to provide students with a central place to access learning-related resources.
+
+- **Live Demo:** https://eduhub-r3t1.onrender.com/index.html
+
+### Brokerage Simulator
+
+A planned project focused on simulating brokerage workflows and exploring financial application development. Development is in progress.
+
+## 🎯 Current Focus
+
+- Developing backend applications using Java and Spring Boot
+- Building REST APIs and working with relational databases
+- Improving data structures, algorithms, and problem-solving
+- Creating and deploying practical software projects
+
+## 🤝 Connect With Me
+
+- **Portfolio:** [gireesh-portfolio-six.vercel.app](https://gireesh-portfolio-six.vercel.app/)
+- **GitHub:** [@Gireesh07-coder](https://github.com/Gireesh07-coder)
+- **LinkedIn:** [Gireesh S Bhajantri](https://www.linkedin.com/in/gireesh-s-bhajantri-b866891b9/)
+
+I'm open to connecting with developers, collaborating on projects, and exploring suitable software engineering opportunities.
